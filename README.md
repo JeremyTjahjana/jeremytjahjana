@@ -8,18 +8,21 @@
 
 ---
 
-<img
-  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWIzOG93eXhzZDl5cmxkZ2htbnBzcDcycG1nNGdnZHp6MXBocjQwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2Am0dun8sVGhkYrXLX/giphy.gif"
-  width="380"
-  align="right"
-/>
-
-<p>
-  <em>“Potential for growth comes when you push beyond 100%.”</em><br>
-  <sub>— Rudeus Greyrat</sub>
-</p>
-
-<br clear="right"/>
+<table align="center">
+  <tr>
+    <!-- 60%: GIF -->
+    <td width="60%" align="center" valign="middle">
+      <img
+        src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWIzOG93eXhzZDl5cmxkZ2htbnBzcDcycG1nNGdnZHp6MXBocjQwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2Am0dun8sVGhkYrXLX/giphy.gif"
+        width="400"
+      />
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <em>“Potential for growth comes when you push beyond 100%.”</em><br>
+      <sub>— Rudeus Greyrat</sub>
+    </td>
+  </tr>
+</table>
 
 ## **About me**
 
@@ -39,16 +42,7 @@
   align="right"
 />
 
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=58A6FF" />
-<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=58A6FF" />
-<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=58A6FF" />
-<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=58A6FF" />
-<img src="https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=58A6FF" />
-<img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=58A6FF" />
-<img src="https://img.shields.io/badge/Postgres-0D1117?style=for-the-badge&logo=postgresql&logoColor=58A6FF" />
-<img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=58A6FF" />
-<img src="https://img.shields.io/badge/Photoshop-0D1117?style=for-the-badge&logo=adobephotoshop&logoColor=58A6FF" />
-<img src="https://img.shields.io/badge/Unity-0D1117?style=for-the-badge&logo=unity&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=58A6FF" /> <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=58A6FF" /> <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=58A6FF" /> <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=58A6FF" /> <img src="https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=58A6FF" /> <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=58A6FF" /> <img src="https://img.shields.io/badge/Postgres-0D1117?style=for-the-badge&logo=postgresql&logoColor=58A6FF" /> <img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=58A6FF" /> <img src="https://img.shields.io/badge/Photoshop-0D1117?style=for-the-badge&logo=adobephotoshop&logoColor=58A6FF" /> <img src="https://img.shields.io/badge/Unity-0D1117?style=for-the-badge&logo=unity&logoColor=58A6FF" />
 
 <p>
   I’m currently working on an app that will be published soon… <em>(stay tuned)</em>
