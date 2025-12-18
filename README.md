@@ -8,13 +8,12 @@
 
 ---
 
-<table align="center">
+<table align="center", width="100%", border="0"> 
   <tr>
-    <!-- 60%: GIF -->
     <td width="60%" align="center" valign="middle">
       <img
         src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWIzOG93eXhzZDl5cmxkZ2htbnBzcDcycG1nNGdnZHp6MXBocjQwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2Am0dun8sVGhkYrXLX/giphy.gif"
-        width="400"
+        width="100%"
       />
     </td>
     <td width="40%" align="center" valign="middle">
@@ -72,7 +71,7 @@
   <a href="https://instagram.com/jereemayahh">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/jeremytjahjana">
+  <a href="https://www.linkedin.com/in/jeremy-tjahjana-65a587323/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=jeremytjahjana&style=for-the-badge&color=0D1117" />
