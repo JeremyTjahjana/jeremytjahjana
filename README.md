@@ -53,7 +53,6 @@
 }
 ```
 
-## Activity
 
 <div align="center">
 
@@ -71,9 +70,5 @@
     src="https://raw.githubusercontent.com/jeremytjahjana/jeremytjahjana/output/github-snake.svg"
   />
 </picture>
-
-<br>
-
-<sub>build → break → learn → repeat</sub>
 
 </div>
