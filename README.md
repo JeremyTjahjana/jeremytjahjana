@@ -19,7 +19,7 @@
 <tr>
 <td width="38%" align="center" valign="middle">
 
-<img src="./assets/jeremy-logo.png" width="280" />
+<img src="./assets/jeremy_logo.png" width="280" />
 
 </td>
 <td width="62%" valign="middle">
