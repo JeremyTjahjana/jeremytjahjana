@@ -36,11 +36,13 @@
   "focus": ["Backend Engineering", "Full-Stack Development", "AI & Machine Learning"],
 
   "stack": {
-    "backend": ["Node.js", "Express", "PostgreSQL", "MongoDB", "Drizzle ORM", "REST APIs"],
-    "frontend": ["TypeScript", "JavaScript", "Next.js", "React", "Tailwind CSS"],
-    "machine_learning": ["Python", "scikit-learn", "Pandas", "NumPy"],
-    "tools": ["Docker", "Git", "Linux", "Vercel", "Figma"]
-  },
+  "backend": ["Node.js", "Bun", "Express", "PostgreSQL", "MongoDB", "Drizzle ORM", "REST APIs"],
+  "frontend": ["TypeScript", "JavaScript", "Next.js", "React", "Tailwind CSS"],
+  "machine_learning": ["Python", "scikit-learn", "Pandas", "NumPy", "Orange"],
+  "cloud_infrastructure": ["Docker", "Linux", "Ubuntu", "Cloudflare", "Vercel", "Neon", "Hostinger"],
+  "ai_automation": ["OpenAI", "Codex", "n8n"],
+  "tools": ["Git", "Figma"]
+},
 
   "currently": {
     "learning": ["Backend Architecture", "Machine Learning", "Operating Systems", "Computer Networks"],
