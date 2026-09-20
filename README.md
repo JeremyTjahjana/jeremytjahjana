@@ -1,88 +1,60 @@
-<img width="100%" src=https://i.pinimg.com/736x/22/c7/0a/22c70a6aa60736029b40fc8c60299765.jpg>
+<div align="center">
 
-## **Hi! I'm Jeremy!👋**
+# Jeremy Tjahjana
 
-<p align="left">
-  Just another dude who got <b><em>isekai’d</em></b> into Computer Science. Still looking for my OP skill.
-</p>
+<img src="https://komarev.com/ghpvc/?username=jeremytjahjana&style=flat-square&color=58A6FF&label=Profile+Views" />
+
+<br><br>
+
+[Website](YOUR_WEBSITE) ·
+[Email](mailto:YOUR_EMAIL) ·
+[LinkedIn](https://www.linkedin.com/in/jeremy-tjahjana-65a587323/) ·
+[Instagram](https://instagram.com/jereemayahh)
+
+</div>
+
+<br>
+
+<table width="100%">
+<tr>
+<td width="38%" align="center" valign="middle">
+
+<img src="./assets/jeremy-logo.png" width="280" />
+
+</td>
+<td width="62%" valign="middle">
+
+<pre>
+{
+  "name": "Jeremy Tjahjana",
+  "summary": "CS student building software from idea to deployment.",
+  "education": "3rd Year Computer Science @ IPB University",
+  "role": "Software Engineer",
+  "backend": ["Node.js", "Express", "PostgreSQL", "MongoDB"],
+  "frontend": ["Next.js", "React", "TypeScript"],
+  "machine_learning": ["Python", "scikit-learn", "Pandas"],
+  "tools": ["Docker", "Git", "Linux", "Vercel", "Figma"]
+}
+</pre>
+
+</td>
+</tr>
+</table>
 
 ---
 
-<table align="center", width="100%", border="0"> 
-  <tr>
-    <td width="60%" align="center" valign="middle">
-      <img
-        src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWIzOG93eXhzZDl5cmxkZ2htbnBzcDcycG1nNGdnZHp6MXBocjQwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2Am0dun8sVGhkYrXLX/giphy.gif"
-        width="100%"
-      />
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <em>“Potential for growth comes when you push beyond 100%.”</em><br>
-      <sub>— Rudeus Greyrat</sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-## **About me**
-
-<a href="https://github.com/jeremytjahjana"><img align="left" width="140" src="https://i.pinimg.com/1200x/ad/6d/d4/ad6dd46002ad758f6ce53980b93b6ca2.jpg"></a>
-
-- Name: **Jeremy**
-- Residing : **Indonesia**
-- Hobbies: **Playing games, basketball, and coding**
-- Language: **Indonesian, English**
-  <br><br>
-
-## **Knowledge**
+## GitHub Stats
 
 <img
-  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXZoMXZ3ODgyOGZ3Zmc2NW9zcmk0bDU1b3NjM2N4N21neHduZTh4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2WncpiJ63aWdcHCjwl/giphy.gif"
-  width="260"
-  align="right"
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api?username=jeremytjahjana&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0D1117"
 />
 
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=58A6FF" /> <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=58A6FF" /> <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=58A6FF" /> <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=58A6FF" /> <img src="https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=58A6FF" /> <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=58A6FF" /> <img src="https://img.shields.io/badge/Postgres-0D1117?style=for-the-badge&logo=postgresql&logoColor=58A6FF" /> <img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=58A6FF" /> <img src="https://img.shields.io/badge/Photoshop-0D1117?style=for-the-badge&logo=adobephotoshop&logoColor=58A6FF" /> <img src="https://img.shields.io/badge/Unity-0D1117?style=for-the-badge&logo=unity&logoColor=58A6FF" />
+<img
+  width="44%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremytjahjana&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117"
+/>
 
-<p>
-  I’m currently working on an app that will be published soon… <em>(stay tuned)</em>
-</p>
-
-<br clear="right"/>
-
-<hr>
-
-## **GitHub Stats**
-
-<p align="center">
-  <img
-    width="50%"
-    src="https://github-readme-stats.vercel.app/api?username=jeremytjahjana&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"
-  />
-  <img
-    width="45%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremytjahjana&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"
-  />
-</p>
-
-<hr>
-
-### Contacts: <p align="center">
-
-  <a href="https://instagram.com/jereemayahh">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/jeremy-tjahjana-65a587323/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=jeremytjahjana&style=for-the-badge&color=0D1117" />
-</p>
-
-<p align="center">
-  <img width = "90%"
-    src="https://i.pinimg.com/1200x/71/72/05/717205472d52de5115d0fbb756c5f728.jpg"
-  />
-
-<p align="center">
-Thankyou for visiting~
-</p>
-</p>
+</div>
