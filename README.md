@@ -1,20 +1,17 @@
 <div align="center">
+  <img src="./jeremy_logo.jpeg" width="120" alt="Jeremy Tjahjana" />
 
-<img src="./jeremy_logo.jpeg" width="170" alt="Jeremy Logo" />
+  <h1>Jeremy Tjahjana</h1>
 
-# Jeremy Tjahjana
+  <p><strong>Software Engineering · Backend · AI</strong></p>
 
-**Software Engineering · Backend · AI**
-
-<a href="YOUR_WEBSITE">Website</a> ·
-<a href="mailto:YOUR_EMAIL">Email</a> ·
-<a href="https://www.linkedin.com/in/jeremy-tjahjana-65a587323/">LinkedIn</a> ·
-<a href="https://instagram.com/jereemayahh">Instagram</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=jeremytjahjana&style=flat-square&color=58A6FF&label=Profile+Views" />
-
+  <p>
+    <a href="YOUR_WEBSITE"><img src="https://img.shields.io/badge/Website-0D1117?style=flat-square&logo=googlechrome&logoColor=58A6FF" /></a>
+    <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=58A6FF" /></a>
+    <a href="https://www.linkedin.com/in/jeremy-tjahjana-65a587323/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=58A6FF" /></a>
+    <a href="https://instagram.com/jereemayahh"><img src="https://img.shields.io/badge/Instagram-0D1117?style=flat-square&logo=instagram&logoColor=58A6FF" /></a>
+    <img src="https://komarev.com/ghpvc/?username=jeremytjahjana&style=flat-square&color=0D1117&label=Profile+Views" />
+  </p>
 </div>
 
 ```json
@@ -23,13 +20,24 @@
   "role": "Software Engineer",
   "education": "3rd Year Computer Science @ IPB University",
   "location": "Indonesia",
-  "summary": "Building end-to-end software from APIs and databases to interfaces and deployment.",
+
+  "summary": "I like turning ideas into real, deployed software — from the database and API to the interface users interact with.",
+
   "focus": ["Backend Engineering", "Full-Stack Development", "AI & Machine Learning"],
-  "backend": ["Node.js", "Express", "PostgreSQL", "MongoDB", "Drizzle ORM", "REST APIs"],
-  "frontend": ["TypeScript", "JavaScript", "Next.js", "React", "Tailwind CSS"],
-  "machine_learning": ["Python", "scikit-learn", "Pandas", "NumPy"],
-  "tools": ["Docker", "Git", "Linux", "Vercel", "Figma"],
-  "interests": ["Software Architecture", "Developer Tools", "Applied AI", "Backend Systems"],
+
+  "stack": {
+    "backend": ["Node.js", "Express", "PostgreSQL", "MongoDB", "Drizzle ORM", "REST APIs"],
+    "frontend": ["TypeScript", "JavaScript", "Next.js", "React", "Tailwind CSS"],
+    "machine_learning": ["Python", "scikit-learn", "Pandas", "NumPy"],
+    "tools": ["Docker", "Git", "Linux", "Vercel", "Figma"]
+  },
+
+  "currently": {
+    "learning": ["Backend Architecture", "Machine Learning", "Operating Systems", "Computer Networks"],
+    "building": ["Full-Stack Apps", "Backend Systems", "APIs", "Developer Tools"]
+  },
+
+  "interests": ["Software Architecture", "Developer Tools", "Applied AI", "Building Products"],
   "languages": ["Indonesian", "English"],
-  "hobbies": ["Coding", "Basketball", "Gaming"]
+  "outside_code": ["Basketball", "Gaming"]
 }
