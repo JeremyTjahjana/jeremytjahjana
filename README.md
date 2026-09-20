@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./jeremy_logo.png" width="160" alt="Jeremy Logo" />
+<img src="./jeremy_logo.jpeg" width="170" alt="Jeremy Logo" />
 
 # Jeremy Tjahjana
 
@@ -14,20 +14,90 @@
 &nbsp;·&nbsp;
 <a href="https://instagram.com/jereemayahh">Instagram</a>
 
+<br><br>
+
 <img src="https://komarev.com/ghpvc/?username=jeremytjahjana&style=flat-square&color=58A6FF&label=Profile+Views" />
 
 </div>
 
+<br>
 
 ```json
 {
   "name": "Jeremy Tjahjana",
-  "summary": "Computer Science student turning ideas into deployed products.",
-  "education": "3rd Year Computer Science @ IPB University",
   "role": "Software Engineer",
-  "BE": ["Node.js", "Express", "PostgreSQL", "MongoDB"],
-  "FE": ["TypeScript", "Next.js", "React"],
-  "ML": ["Python", "scikit-learn", "Pandas"],
-  "tools": ["Docker", "Git", "Linux", "Vercel", "Figma"]
+  "education": "3rd Year Computer Science @ IPB University",
+  "location": "Indonesia",
+
+  "summary": "I build end-to-end software, from APIs and databases to interfaces and deployment.",
+
+  "focus": [
+    "Backend Engineering",
+    "Full-Stack Development",
+    "Artificial Intelligence & Machine Learning"
+  ],
+
+  "backend": [
+    "Node.js",
+    "Express",
+    "PostgreSQL",
+    "MongoDB",
+    "Drizzle ORM",
+    "REST APIs"
+  ],
+
+  "frontend": [
+    "TypeScript",
+    "JavaScript",
+    "Next.js",
+    "React",
+    "Tailwind CSS"
+  ],
+
+  "machine_learning": [
+    "Python",
+    "scikit-learn",
+    "Pandas",
+    "NumPy"
+  ],
+
+  "tools": [
+    "Docker",
+    "Git",
+    "Linux",
+    "Vercel",
+    "Figma"
+  ],
+
+  "interests": [
+    "Software Architecture",
+    "Developer Tools",
+    "Distributed & Backend Systems",
+    "Applied AI",
+    "Building products from scratch"
+  ],
+
+  "currently": {
+    "learning": [
+      "Backend Architecture",
+      "Machine Learning",
+      "Operating Systems",
+      "Computer Networks"
+    ],
+    "building": [
+      "Full-Stack Applications",
+      "APIs & Backend Systems",
+      "Developer Tools"
+    ]
+  },
+
+  "languages": ["Indonesian", "English"],
+  "hobbies": ["Coding", "Basketball", "Gaming"]
 }
 ```
+
+<div align="center">
+
+<sub>Building, breaking, learning, and shipping.</sub>
+
+</div>
