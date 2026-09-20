@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./jeremy_logo.jpeg" width="185" alt="Jeremy Tjahjana" />
+  <img src="./jeremy_logo.jpeg" width="120" alt="Jeremy Tjahjana" />
 
   <h1>Jeremy Tjahjana</h1>
 
