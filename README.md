@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./jeremy_logo.jpeg" width="120" alt="Jeremy Tjahjana" />
+  <img src="./jeremy_logo.jpeg" width="185" alt="Jeremy Tjahjana" />
 
   <h1>Jeremy Tjahjana</h1>
 
@@ -41,3 +41,29 @@
   "languages": ["Indonesian", "English"],
   "outside_code": ["Basketball", "Gaming"]
 }
+```
+
+## Activity
+
+<div align="center">
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=jeremytjahjana&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity"
+    alt="Jeremy's GitHub Activity Graph"
+  />
+</div>
+
+## Spotify
+
+<div align="center">
+  <a href="https://github.com/tthn0/Spotify-Readme">
+    <img
+      src="YOUR_SPOTIFY_WIDGET_URL?theme=dark&eq_color=58A6FF"
+      alt="Current Spotify Song"
+    />
+  </a>
+</div>
+
+<div align="center">
+  <sub>build → break → learn → repeat</sub>
+</div>
