@@ -1,60 +1,106 @@
-<div align="center">
-
-# Jeremy Tjahjana
-
-<img src="https://komarev.com/ghpvc/?username=jeremytjahjana&style=flat-square&color=58A6FF&label=Profile+Views" />
-
-<br><br>
-
-[Website](YOUR_WEBSITE) ·
-[Email](mailto:YOUR_EMAIL) ·
-[LinkedIn](https://www.linkedin.com/in/jeremy-tjahjana-65a587323/) ·
-[Instagram](https://instagram.com/jereemayahh)
-
-</div>
-
-<br>
-
 <table width="100%">
 <tr>
-<td width="38%" align="center" valign="middle">
 
-<img src="./jeremy_logo.png" width="280" />
+<td width="50%" valign="top">
+
+<pre>
+                                               π
+                                    π∞≠=÷≠--÷∞√√
+                                  ∞=××------÷∞=≠√√π
+                           ∞≈=≈=≠×---------+---÷÷∞≈√
+                         =××-----+++-+++-++---++++×-√
+                       √×--------+++++++++++--+×+-----=√
+                    ∞√÷------+++++++++++++++++--+++--×--
+                    ≠÷------+++++++++----+++++++--------√
+                    √-------+++++-+++×÷×-+++++-++++-----π
+                    ∞-----++++++-×---×=÷×--++++++-+-+--=π
+                     ×-++++++-+--××-÷=≠≠==----+++++++--≠
+                     ≈---+++×=÷=÷÷×÷=≠≠=÷××××--++++++-=
+                       --÷-≠≠=≠≠====×-====≠=====÷×++-÷
+                       ≈--≈≈==÷×-×÷×=≠=×=×--÷-÷==÷-+∞
+                       ≠≠×≈≈≈≠≠≠≠≠≠-≈≈≠==≠===≠≠≠≠≠-=≈
+                       =∞=≈≈=≈≈≈≠≠=≠≈≈≠≠=≠≠≠≈≈≠÷≠≠-≠=
+                        ≈=∞≈≈≈≈≠==≈≈≈≠≠≠≠÷=≠≠≈≈≠≠≠=≠=
+                        ≠≈≈≈≈≠≠=≠≠≠≠=÷=÷÷===≠≠≠≠≠=÷=
+                          ∞≈≈≠≠=≠≠≈≈≠≠≠≠≠≠=≠≠≠≠≠≠÷≠
+                          √≈≈≈≠÷-×∞≈∞=≈≠=×÷÷≠≠≠≠≠
+                           ≈≈≠≠≠≠=≠≠≠===÷÷==≠≠≠≠∞
+                            ≠≠≠≠≠≠≠≠=====≠==≠==≠
+                             ≠≠≈≈≈≠≠≠≠≠≠≠≠≠==
+                             ≠≠≠≈≈≠≠≠≠≠≠≠≠====
+                           -√≈≠≠========÷÷÷==≠≈
+                          ÷-∞≈≈≠≠≠≠==÷÷=====≠≠√÷
+                      ××××--∞≈≈≠≠≠≠≠≠≠=====≠≠÷√-÷÷÷÷
+                π××------×--√×≠≠≠≠≠≠≠≠===≠≠≠=∞√-×××××××÷÷π
+          ≈÷×××-------------√∞=≠≠≠≠≠≠≠≠=≠≠≠=×√≈-××××××××××××÷÷=
+     ÷÷×××××----------------√√÷==≠≠≠≠≠≠=≠==÷√√---×××××--××××××××××÷÷
+    ÷×××××------------------=π===≠≠≠≠≠≠≠≠≠=÷√∞---××××××--××××××××××××
+    ××-----------------------π√=≠≠≠≠≠≈≈≈≠≠≠≠π÷----×××××-------×××××-××
+    ×--------------+---------√√√≠≈≈≈≈≈≈≈≈≈≈√π------××-+---------------√
+   ××------------------------∞π√√÷≈≈≈≈≈≈≈≈π√√-------------------------×
+  √×--------------------------≈≈√√√≠≈≈≈≈ππππ√--------------------------÷
+  ××---+----------------------∞∞√√√√≠≈√ππππ≈÷--------------------------×
+ ≈×---------------------------∞√√√√√√√π√√≈∞∞----------------------------÷
+ ××---------------------------≠√√π√√√√∞√√√√≈--------------------++------×
+ ×------+----------------------√√√√∞≈√∞√√√√≠--------------------+--------=
+××-----------------------------√√√√√≠√√√√√√÷--------------------+---------
+×-------++---------------------√√√√ππ√√√√√∞---------------------+---------
+×-------++---------------------√√π√√π√√√√√≈--------------------+++--------
+×-------++---------------------≈√√√√√√√√√√≠--------------------+++--------
+---------+---------------------÷√√√√√√√√√√=--------------------+++--------
+-------+-++---------------------√√√√√π√√√√--------------------+++---------
+-------++++--÷-----√------------√√√√√√√∞√√--------+-----------+++---------
+------+++++-×≠-÷√÷--∞-----------∞√√√√√√∞√∞-------------------++++---------
+-------++++----√≈---------------∞√√√√√∞∞∞∞-------+----------++++----------
+-------++++--=-∞÷---≈-----------≈√√√√√∞∞∞≈-------+----------++++----------
+-------++++---×-÷∞-÷------------≈∞√√√√∞∞≈÷------+-----------++++----------
+-------++++--------------+------≠∞√√√√√∞≈×-----++----------+++++----------
+----+++-++++--------------+-----≠∞√√√√√∞≠------++----------+++++----------
+------++++++-------------++-----×≈√√√√√≈≠-----+------------++ ++----------
+--++++++++++---------------+-----≈√√√√√≈≈-----++---------+++++++++++------
+</pre>
 
 </td>
-<td width="62%" valign="middle">
+
+<td width="50%" valign="top">
 
 <pre>
 {
-  "name": "Jeremy Tjahjana",
-  "summary": "CS student building software from idea to deployment.",
-  "education": "3rd Year Computer Science @ IPB University",
-  "role": "Software Engineer",
-  "backend": ["Node.js", "Express", "PostgreSQL", "MongoDB"],
-  "frontend": ["Next.js", "React", "TypeScript"],
-  "machine_learning": ["Python", "scikit-learn", "Pandas"],
-  "tools": ["Docker", "Git", "Linux", "Vercel", "Figma"]
+  <font color="#79C0FF">"name"</font>: <font color="#A5D6FF">"Jeremy Tjahjana"</font>,
+  <font color="#79C0FF">"summary"</font>: <font color="#A5D6FF">"Turning ideas into deployed products."</font>,
+  <font color="#79C0FF">"education"</font>: <font color="#A5D6FF">"3rd Year CS @ IPB University"</font>,
+  <font color="#79C0FF">"role"</font>: <font color="#A5D6FF">"Software Engineer"</font>,
+
+  <font color="#79C0FF">"BE"</font>: [
+    <font color="#A5D6FF">"Node.js"</font>,
+    <font color="#A5D6FF">"Express"</font>,
+    <font color="#A5D6FF">"PostgreSQL"</font>,
+    <font color="#A5D6FF">"MongoDB"</font>
+  ],
+
+  <font color="#79C0FF">"FE"</font>: [
+    <font color="#A5D6FF">"TypeScript"</font>,
+    <font color="#A5D6FF">"Next.js"</font>,
+    <font color="#A5D6FF">"React"</font>
+  ],
+
+  <font color="#79C0FF">"ML"</font>: [
+    <font color="#A5D6FF">"Python"</font>,
+    <font color="#A5D6FF">"scikit-learn"</font>,
+    <font color="#A5D6FF">"Pandas"</font>
+  ],
+
+  <font color="#79C0FF">"tools"</font>: [
+    <font color="#7EE787">"Docker"</font>,
+    <font color="#7EE787">"Git"</font>,
+    <font color="#7EE787">"Linux"</font>,
+    <font color="#7EE787">"Vercel"</font>,
+    <font color="#7EE787">"Figma"</font>
+  ]
 }
 </pre>
 
 </td>
+
 </tr>
 </table>
-
----
-
-<div align="center">
-
-## GitHub Stats
-
-<img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=jeremytjahjana&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0D1117"
-/>
-
-<img
-  width="44%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremytjahjana&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117"
-/>
-
-</div>
