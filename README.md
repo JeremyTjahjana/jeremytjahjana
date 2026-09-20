@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="./image/jeremy_logo.png" width="160" alt="Jeremy Logo" />
+<img src="./jeremy_logo.png" width="160" alt="Jeremy Logo" />
 
 # Jeremy Tjahjana
 
 **Software Engineering · Backend · AI**
-
-<br>
 
 <a href="YOUR_WEBSITE">Website</a>
 &nbsp;·&nbsp;
@@ -16,13 +14,10 @@
 &nbsp;·&nbsp;
 <a href="https://instagram.com/jereemayahh">Instagram</a>
 
-<br><br>
-
 <img src="https://komarev.com/ghpvc/?username=jeremytjahjana&style=flat-square&color=58A6FF&label=Profile+Views" />
 
 </div>
 
-<br>
 
 ```json
 {
