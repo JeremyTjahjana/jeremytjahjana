@@ -4,7 +4,7 @@
 
   <h1>Jeremy Tjahjana</h1>
 
-  <p><strong>Software Engineering · Backend · AI</strong></p>
+  <p><strong>Software Engineering | Full Stack | AI</strong></p>
 
   <p>
     <a href="YOUR_WEBSITE">
