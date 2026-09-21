@@ -7,10 +7,10 @@
   <p><strong>Software Engineering | Full Stack | AI</strong></p>
 
   <p>
-    <a href="YOUR_WEBSITE">
+    <a href="https://wwww.jeremytj.com">
       <img src="https://img.shields.io/badge/Website-0D1117?style=flat-square&logo=googlechrome&logoColor=58A6FF" />
     </a>
-    <a href="mailto:YOUR_EMAIL">
+    <a href="mailto:jeremytjahjana@gmail.com">
       <img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=58A6FF" />
     </a>
     <a href="https://www.linkedin.com/in/jeremy-tjahjana-65a587323/">
