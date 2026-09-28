@@ -31,7 +31,8 @@
   "education": "3rd Year Computer Science @ IPB University",
   "location": "Indonesia",
 
-  "summary": "I like turning ideas into real, deployed software — from the database and API to the interface users interact with.",
+  "summary": "I like turning ideas into real, deployed software,
+ from the database and API to the interface users interact with.",
 
   "focus": ["Backend Engineering", "Full-Stack Development", "AI & Machine Learning"],
 
